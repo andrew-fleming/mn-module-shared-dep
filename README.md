@@ -1,0 +1,1 @@
+# mn-module-shared-dep

@@ -34,7 +34,7 @@ All three import the same `Common` module.
 ## Steps to reproduce
 
 1. Clone this repo
-2. Compile the contract:
+2. Compile the contract (compact version: 0.30.0):
 
 ```bash
 compact compile src/MyContract.compact ./artifacts

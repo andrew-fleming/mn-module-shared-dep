@@ -1,0 +1,7 @@
+pragma language_version >= 0.22.0;
+
+module Common {
+  import CompactStandardLibrary;
+
+  export ledger _isInitialized: Boolean;
+}

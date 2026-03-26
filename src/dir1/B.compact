@@ -1,0 +1,10 @@
+pragma language_version >= 0.22.0;
+
+module B {
+  import CompactStandardLibrary;
+  import "../common-dir/Common" prefix Common_;
+
+  export circuit isInitialized(): Boolean {
+    return Common__isInitialized;
+  }
+}

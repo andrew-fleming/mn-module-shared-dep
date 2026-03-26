@@ -1,0 +1,18 @@
+pragma language_version >= 0.22.0;
+
+import CompactStandardLibrary;
+import "./dir1/A" prefix A_;
+import "./dir1/B" prefix B_;
+import "./dir2/C" prefix C_;
+
+export circuit isInitializedA(): Boolean {
+  return A_isInitialized();
+}
+
+export circuit isInitializedB(): Boolean {
+  return B_isInitialized();
+}
+
+export circuit isInitializedC(): Boolean {
+  return C_isInitialized();
+}

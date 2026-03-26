@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "file": "index.js",
+  "sourceRoot": "../../",
+  "sources": ["src/MyContract.compact", "src/./dir1/../common-dir/Common.compact", "src/./dir2/../common-dir/Common.compact", "src/./dir1/A.compact", "src/./dir1/B.compact", "src/./dir2/C.compact"],
+  "names": [],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EAAA;;;;;;;;;;MAOA,AAAA,cAEC;;;;;;;;;;;;;;;;;;;;;;OAAA;MAED,AAAA,cAEC;;;;;;;;;;;;;;;;;;;;;;OAAA;MAED,AAAA,cAEC;;;;;;;;;;;;;;;;;;;;;;OAAA;;;;;;;;;;;;GACA;EAlBD;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ICKE;;;;;;;;;yEAAsC;ICAtC;;;;;;;;;yEAAsC;;;;;;;GFavC;EGZC,AAAA,gBAEC;mCADQ;;;;;;;;;;;wGAAqB;GAC7B;ECFD,AAAA,gBAEC;mCADQ;;;;;;;;;;;wGAAqB;GAC7B;ECFD,AAAA,gBAEC;mCADQ;;;;;;;;;;;wGAAqB;GAC7B;ELDH,AAAA,iBAEC;;GAAA;EAED,AAAA,iBAEC;;GAAA;EAED,AAAA,iBAEC;;GAAA;;;;;;;;;;;;;;;;;;;;;;;;;"
+}
